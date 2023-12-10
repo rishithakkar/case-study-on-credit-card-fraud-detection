@@ -4,6 +4,7 @@ This script performs data cleaning tasks such as removing null values, outlier d
 
 ## Prerequisites
 - Python installed on your system (Python 3.x recommended)
+- Download the 'creditcard_2023.csv' dataset from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023) and place it in the same directory as the Python script.
 
 ## Installation
 1. Clone or download this repository.
